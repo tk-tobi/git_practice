@@ -7,10 +7,10 @@ Make sure the file always includes the following elements:
 
 **Consider also using additional elements such as:** 
 
-+Table of contents
-+Illustrations
-+Scope of functionalities 
-+Examples of use
-+Project status 
-+Sources
-+Other information
++ Table of contents
++ Illustrations
++ Scope of functionalities 
++ Examples of use
++ Project status 
++ Sources
++ Other information
