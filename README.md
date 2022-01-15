@@ -1,8 +1,8 @@
 Make sure the file always includes the following elements:
 
 + Titles and internal titles
-+ Introduction - /[ *A short description of the project* ]/
-+ Technologies    /[ *Languages used, libraries and its version*]/
++ Introduction  [ *A short description of the project* ]
++ Technologies    [ *Languages used, libraries and its version*]
 + Launch
 
 **Consider also using additional elements such as:** 
