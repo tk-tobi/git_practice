@@ -1,14 +1,14 @@
 Make sure the file always includes the following elements:
 
 + Titles and internal titles
-+ Introduction - the project's aim
-+ Technologies
++ Introduction - /[ *A short description of the project* ]/
++ Technologies    /[ *Languages used, libraries and its version*]/
 + Launch
 
 **Consider also using additional elements such as:** 
 
 + Table of contents
-+ Illustrations
++ Illustrations 
 + Scope of functionalities 
 + Examples of use
 + Project status 
