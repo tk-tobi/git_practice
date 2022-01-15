@@ -1,5 +1,6 @@
-#[more Info](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-Make sure the file always includes the following elements:
+[more Info](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+  Make sure the file always includes the following elements:
 
 + Titles and internal titles
 + Introduction  [ *A short description of the project* ]
