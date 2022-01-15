@@ -14,3 +14,5 @@ Make sure the file always includes the following elements:
 + Project status 
 + Sources
 + Other information
+
+N(🧊)
