@@ -7,7 +7,7 @@
 + Technologies    [ *Languages used, libraries and its version*]
 + Launch           [How to run a project? Does a project has minimum hardware requirements?]
 
-##Consider also using additional elements such as:
+## Consider also using additional elements such as:
 
 + Table of contents
 + Illustrations 
